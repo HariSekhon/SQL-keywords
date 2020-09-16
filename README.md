@@ -3,7 +3,24 @@ SQL Keywords
 
 [git.io/sql-keywords](https://git.io/sql-keywords)
 
-SQL keywords and built-in functions for most major RDBMS & MPP SQL systems, as well as various Big Data & NoSQL systems, Docker and others.
+SQL keywords and built-in functions for most major RDBMS, MPP SQL and NoSQL systems, including:
+
+- [MySQL](https://www.mysql.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Oracle](http://oracle.com/)
+- [SQL Server](https://www.microsoft.com/en-gb/sql-server)
+- [Presto](https://prestodb.io/)
+- [AWS Athena](https://aws.amazon.com/athena/)
+- [AWS Redshift](https://aws.amazon.com/redshift/)
+- [Snowflake](https://www.snowflake.com/)
+- [Apache Drill](http://drill.apache.org/)
+- [Apache Hive](https://hive.apache.org/)
+- [Apache Impala](https://impala.apache.org/)
+- [Cassandra](https://cassandra.apache.org/) CQL
+- [Couchbase](https://www.couchbase.com/) N1QL
+- [Apache Pig](https://pig.apache.org/) Latin
+- [Neo4j](https://neo4j.com/) Cypher
+- [Docker](https://www.docker.com/) Dockerfiles
 
 These are used by [sqlcase.pl](https://github.com/HariSekhon/DevOps-Perl-tools/blob/master/sqlcase.pl) in [DevOps Perl tools](https://github.com/HariSekhon/DevOps-Perl-tools) to auto-recase SQL scripts, Dockerfiles etc.
 

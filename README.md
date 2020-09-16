@@ -3,7 +3,7 @@ SQL Keywords
 
 SQL keywords and built-in functions for most major RDBMS & MPP SQL systems, as well as various Big Data & NoSQL systems, Docker and others.
 
-These are used by [sqlcase.pl] in [DevOps Perl tools](https://github.com/HariSekhon/DevOps-Perl-tools) to auto-recase SQL scripts, Dockerfiles etc.
+These are used by [sqlcase.pl](https://github.com/HariSekhon/DevOps-Perl-tools/blob/master/sqlcase.pl) in [DevOps Perl tools](https://github.com/HariSekhon/DevOps-Perl-tools) to auto-recase SQL scripts, Dockerfiles etc.
 
 sqlcase.pl is also called from the advanced [.vimrc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.vimrc) in the [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.vimrc) repo.
 

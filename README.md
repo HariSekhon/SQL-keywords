@@ -36,7 +36,7 @@ SQL keywords and built-in functions for most major RDBMS, MPP SQL and NoSQL syst
 
 These are used by [sqlcase.pl](https://github.com/HariSekhon/DevOps-Perl-tools/blob/master/sqlcase.pl) and similar `*case.pl` scripts in [DevOps Perl tools](https://github.com/HariSekhon/DevOps-Perl-tools) to auto-recase SQL scripts, Dockerfiles etc.
 
-sqlcase.pl is also called from the advanced [.vimrc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.vimrc) in the [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.vimrc) repo.
+`sqlcase.pl` is also called from the advanced [.vimrc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.vimrc) in the [DevOps Bash tools](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.vimrc) repo.
 
 Forked from [DevOps Perl tools](https://github.com/HariSekhon/DevOps-Perl-tools) repo for which this is now a submodule.
 

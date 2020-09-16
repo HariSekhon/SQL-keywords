@@ -1,7 +1,7 @@
 SQL Keywords
 ============
 
-SQL keywords and built-in functions for most major RDBMS & MPP SQL systems, as well as various Big Data & NoSQL systems, Docker and others
+SQL keywords and built-in functions for most major RDBMS & MPP SQL systems, as well as various Big Data & NoSQL systems, Docker and others.
 
 These are used by [sqlcase.pl] in [DevOps Perl tools](https://github.com/HariSekhon/DevOps-Perl-tools) to auto-recase SQL scripts, Dockerfiles etc.
 

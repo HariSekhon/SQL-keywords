@@ -1,6 +1,8 @@
 SQL Keywords
 ============
 
+[git.io/sql-keywords](https://git.io/sql-keywords)
+
 SQL keywords and built-in functions for most major RDBMS & MPP SQL systems, as well as various Big Data & NoSQL systems, Docker and others.
 
 These are used by [sqlcase.pl](https://github.com/HariSekhon/DevOps-Perl-tools/blob/master/sqlcase.pl) in [DevOps Perl tools](https://github.com/HariSekhon/DevOps-Perl-tools) to auto-recase SQL scripts, Dockerfiles etc.

@@ -8,8 +8,10 @@ SQL Keywords
 [![AWS Redshift](https://img.shields.io/badge/SQL-AWS%20Redshift-232F3E?logo=amazon%20aws)](https://aws.amazon.com/redshift/)
 [![Oracle](https://img.shields.io/badge/SQL-Oracle-232F3E?logo=oracle)](http://oracle.com/)
 [![SQL Server](https://img.shields.io/badge/SQL-SQL%20Server-CC2927?logo=microsoft%20sql%20server)](https://www.microsoft.com/en-gb/sql-server)
+
 [![Cassandra](https://img.shields.io/badge/CQL-Cassandra-1287B1?logo=apache%20cassandra)](https://cassandra.apache.org/)
 [![Docker](https://img.shields.io/badge/Dockerfile-Docker-2496ED?logo=docker)](https://www.docker.com/)
+[![Neo4j](https://img.shields.io/badge/Cypher-Neo4j-008CC1?logo=neo4j)](https://neo4j.com/)
 
 [git.io/sql-keywords](https://git.io/sql-keywords)
 

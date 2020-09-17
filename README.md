@@ -17,6 +17,7 @@ SQL Keywords
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-blue?logo=github)](https://github.com/HariSekhon/SQL-keywords)
 [![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-blue?logo=gitlab)](https://gitlab.com/HariSekhon/SQL-keywords)
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-blue?logo=bitbucket)](https://bitbucket.org/HariSekhon/SQL-keywords)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/commits/master)
 
 [git.io/sql-keywords](https://git.io/sql-keywords)
 

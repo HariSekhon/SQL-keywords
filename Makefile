@@ -15,6 +15,8 @@
 # fails to bootstrap on Alpine
 #SHELL := /usr/bin/env bash
 
+PATH := $(PATH):$(PWD)/bash-tools
+
 .PHONY: build
 build: init
 	@echo "nothing to build"
@@ -27,10 +29,15 @@ init:
 all: build test
 	@:
 
+.PHONY: bash-tools
+bash-tools:
+	@if ! command -v check_pytools.sh; then \
+		curl -L https://git.io/bash-bootstrap | sh; \
+	fi
+
 .PHONY: test
-test:
-	curl -sS https://raw.githubusercontent.com/HariSekhon/DevOps-Bash-tools/master/setup/bootstrap.sh | sh
-	bash-tools/check_pytools.sh
+test: bash-tools
+	check_pytools.sh
 
 .PHONY: push
 push:

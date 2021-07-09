@@ -17,7 +17,7 @@
 
 .PHONY: build
 build: init
-	@:
+	@echo "nothing to build"
 
 .PHONY: init
 init:

@@ -15,14 +15,17 @@ SQL Keywords
 
 [![Validation](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml)
 [![Semgrep](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml)
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/network)
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://bitbucket.org/harisekhon/devops-bash-tools/src/master/STATUS.md)
 [![Travis CI](https://img.shields.io/badge/TravisCI-legacy-lightgrey?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/SQL-keywords/blob/master/.travis.yml)
+[![License](https://img.shields.io/github/license/HariSekhon/SQL-keywords)](https://github.com/HariSekhon/SQL-keywords/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/commits/master)
+
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/SQL-keywords)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/SQL-keywords)
 [![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/SQL-keywords)
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/SQL-keywords)
-[![License](https://img.shields.io/github/license/HariSekhon/SQL-keywords)](https://github.com/HariSekhon/SQL-keywords/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/commits/master)
 
 [git.io/sql-keywords](https://git.io/sql-keywords)
 

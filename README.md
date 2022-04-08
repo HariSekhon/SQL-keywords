@@ -1,6 +1,11 @@
 SQL Keywords
 ============
 
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/network)
+[![License](https://img.shields.io/github/license/HariSekhon/SQL-keywords)](https://github.com/HariSekhon/SQL-keywords/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/commits/master)
+
 [![PostgreSQL](https://img.shields.io/badge/SQL-PostreSQL-336791?logo=postgresql)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MariaDB](https://img.shields.io/badge/SQL-MariaDB-003545?logo=mariadb)](https://mariadb.org/)
@@ -14,10 +19,6 @@ SQL Keywords
 
 [![Validation](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml)
 [![Semgrep](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml)
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/network)
-[![License](https://img.shields.io/github/license/HariSekhon/SQL-keywords)](https://github.com/HariSekhon/SQL-keywords/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/commits/master)
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/SQL-keywords/blob/master/.travis.yml)

@@ -20,6 +20,7 @@ SQL Keywords
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Validation](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml)
 [![Semgrep](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml)
+[![Kics](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml)
 [![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/SQL-keywords/blob/master/.travis.yml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/SQL-keywords)

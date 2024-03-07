@@ -89,6 +89,8 @@ Forked from [DevOps Perl tools](https://github.com/HariSekhon/DevOps-Perl-tools)
 
 - [Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & Open Source architecture diagrams with Python & D2 source code provided - automatically regenerated via GitHub Actions CI/CD - AWS, GCP, Kubernetes, Jenkins, ArgoCD, Traefik, Kong API Gateway, Nginx, Redis, PostgreSQL, Kafka, Spark, web farms, event processing...
 
+- [Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - IT Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP etc.
+
 [![Stargazers over time](https://starchart.cc/HariSekhon/SQL-keywords.svg)](https://starchart.cc/HariSekhon/SQL-keywords)
 
 [git.io/sql-keywords](https://git.io/sql-keywords)

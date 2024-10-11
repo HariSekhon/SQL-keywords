@@ -19,7 +19,7 @@
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![YAML](https://github.com/HariSekhon/SQL-keywords/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/yaml.yaml)
-[![Markdown](https://github.com/HariSekhon/sql-keywords/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/sql-keywords/actions/workflows/markdown.yaml)
+[![Markdown](https://github.com/HariSekhon/SQL-keywords/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/markdown.yaml)
 [![Validation](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml)
 [![Grype](https://github.com/HariSekhon/SQL-keywords/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/grype.yaml)
 [![Kics](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml)

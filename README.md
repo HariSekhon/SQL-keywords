@@ -59,9 +59,9 @@ These are used by [sqlcase.pl](https://github.com/HariSekhon/DevOps-Perl-tools/b
 
 Forked from [DevOps Perl tools](https://github.com/HariSekhon/DevOps-Perl-tools) repo for which this is now a submodule.
 
-## Stargazers over time
+## Star History
 
-[![Stargazers over time](https://starchart.cc/HariSekhon/SQL-keywords.svg)](https://starchart.cc/HariSekhon/SQL-keywords)
+[![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/SQL-keywords&type=Date)](https://star-history.com/#HariSekhon/SQL-keywords&Date)
 
 [git.io/sql-keywords](https://git.io/sql-keywords)
 
